@@ -1,0 +1,1 @@
+# --nome-a-o-da-CLI-Snyk-usos-clarkio-snyk-cli-action-1.0.0
